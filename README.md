@@ -19,4 +19,6 @@ $ npm i -D playwright
 
 ## Run
 
+```
 node test.js
+```
