@@ -1,0 +1,22 @@
+{
+  "name": "playwrightplayground",
+  "version": "1.0.0",
+  "description": "[Playwright homepage](https://playwright.dev/#)",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyfoo/PlaywrightPlayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyfoo/PlaywrightPlayground/issues"
+  },
+  "homepage": "https://github.com/xyfoo/PlaywrightPlayground#readme",
+  "devDependencies": {
+    "playwright": "^1.6.2"
+  }
+}
